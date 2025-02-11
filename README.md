@@ -11,7 +11,8 @@
 ![image](https://github.com/user-attachments/assets/d985cd16-c3bf-4030-b261-2c9d6e6cb4bc)
 
 # №9 
-![image](https://github.com/user-attachments/assets/12955bb0-b010-4a85-a0e6-612880cfa1f8)
+![image](https://github.com/user-attachments/assets/d4d6c050-0519-4773-a4ee-0ee40328a87f)
+
 
 # №10
 Всего было подготовлено 50 билетов. Среди них 9 были однозначными, это билеты с номерами от 1 до 9. Таким образом, вероятность того, что наугад взятый учеником билет имеет однозначный номер равна 9/50 = 0,18
