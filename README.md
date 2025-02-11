@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/d985cd16-c3bf-4030-b261-2c9d6e6cb4bc)
 
 # №9 
-![image](https://github.com/user-attachments/assets/d4d6c050-0519-4773-a4ee-0ee40328a87f)
+![image](https://github.com/user-attachments/assets/d4d6c050-0519-4773-a4ee-0ee40328a87f) -4x = -9 => 4x = 9 => x=2,25
 
 
 # №10
